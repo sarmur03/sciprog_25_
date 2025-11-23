@@ -7,7 +7,7 @@ This folder contains practical05 codes
 * gfortran Fibonacci.f90 -o Fibo
 * gfortran Arctanh.f90 -o Arctanh
 
-                                                                                                                                     ## Execute:
+## To execute:                                                                                                                                     ## Execute:
 
 * ./Fibo
 * ./Arctanh
